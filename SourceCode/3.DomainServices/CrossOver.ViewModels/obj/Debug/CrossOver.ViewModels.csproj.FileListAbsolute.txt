@@ -1,0 +1,15 @@
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\CrossOver.ViewModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\CrossOver.ViewModels.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\CrossOver.Utility.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\MongoDB.Bson.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\System.Web.Mvc.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\Newtonsoft.Json.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\CrossOver.Utility.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\MongoDB.Bson.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\System.Web.Mvc.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\bin\Debug\Newtonsoft.Json.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\obj\Debug\CrossOver.ViewModels.csprojResolveAssemblyReference.cache
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\obj\Debug\CrossOver.ViewModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.ViewModels\obj\Debug\CrossOver.ViewModels.pdb

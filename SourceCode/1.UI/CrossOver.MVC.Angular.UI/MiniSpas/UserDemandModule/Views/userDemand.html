@@ -1,0 +1,28 @@
+﻿<h2>Book demand history</h2>
+<hr />
+<div>
+
+    <div style="overflow:auto;border:solid;border-width:thin;width:100%" >
+        <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:30%"><b>Title</b></div>
+        <div style="float:left;border-right:solid;border-width:thin;text-align:center;padding-left:2px;padding-bottom:3px; width:7%;"><b>Book </b></div>
+        <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%"><b>Requested Date</b></div>
+        <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%"><b>Issued Date</b></div>
+        <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%"><b>Returned Date</b></div>
+        <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%"><b>Status</b></div>
+        <div style="float:left;border-right:none;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:13%"><b>Remark</b></div>
+    </div>
+    <div style="overflow:auto" ng-if="userDemandCtrl.demandList.length >0">
+        <div style="float:left;overflow:auto;border:solid;border-width:thin;width:100%" ng-repeat="demand in userDemandCtrl.demandList">
+            <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:30%;height:60px;"><b>{{demand.bookTitle}}</b></div>
+            <div style="float:left;border-right:solid;border-width:thin;text-align:center; width:7%;"><img style="width:60px;height:60px;" ng-src="{{userDemandCtrl.bookImagePath}}/{{demand.BookPhoto}}" /></div>
+            <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%;height:60px;"><b>{{demand.updatedOn}}</b></div>
+            <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%;height:60px;"><b>{{demand.issuedDate}}</b></div>
+            <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%;height:60px;"><b>{{demand.returnedDate}}</b></div>
+            <div style="float:left;border-right:solid;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:12%;height:60px;"><b>{{demand.requestStatus}}</b></div>
+            <div style="float:left;border-right:none;border-width:thin;text-align:left;padding-left:2px;padding-bottom:3px;width:13%;height:60px;"><b>{{demand.remark}}</b></div>
+        </div>
+    </div>
+    <div style="overflow:auto;text-align:center" ng-if="userDemandCtrl.demandList.length  == 0">
+        {{userDemandCtrl.ProcessInfo.Message}}
+    </div>
+</div>

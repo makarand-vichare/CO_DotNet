@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+@section scripts {
+
+}
+
+<div class="container" ng-app="HomeModule">
+ @Html.Partial("_TopMenu")
+
+    <div class="row">
+        <div >
+            <div anti-Forgery-Token ng-view>  </div>
+        </div>
+    </div>
+</div>
+
+@Scripts.Render("~/bundles/searchbook-modules")
+@Scripts.Render("~/bundles/searchbook-services")
+@Scripts.Render("~/bundles/searchbook-viewmodels")
+@Scripts.Render("~/bundles/searchbook-controllers")

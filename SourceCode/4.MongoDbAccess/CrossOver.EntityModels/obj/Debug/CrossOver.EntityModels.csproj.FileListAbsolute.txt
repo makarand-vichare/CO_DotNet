@@ -1,0 +1,12 @@
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\CrossOver.EntityModels.dll.config
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\CrossOver.EntityModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\CrossOver.EntityModels.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\CrossOver.Utility.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\MongoDB.Bson.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\Newtonsoft.Json.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\CrossOver.Utility.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\MongoDB.Bson.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\bin\Debug\Newtonsoft.Json.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\obj\Debug\CrossOver.EntityModels.csprojResolveAssemblyReference.cache
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\obj\Debug\CrossOver.EntityModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\4.MongoDbAccess\CrossOver.EntityModels\obj\Debug\CrossOver.EntityModels.pdb

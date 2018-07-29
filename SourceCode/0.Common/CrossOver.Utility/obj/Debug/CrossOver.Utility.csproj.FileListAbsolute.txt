@@ -1,0 +1,9 @@
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\CrossOver.Utility.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\CrossOver.Utility.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\MongoDB.Bson.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\MongoDB.Bson.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\obj\Debug\CrossOver.Utility.csprojResolveAssemblyReference.cache
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\obj\Debug\CrossOver.Utility.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\0.Common\CrossOver.Utility\obj\Debug\CrossOver.Utility.pdb

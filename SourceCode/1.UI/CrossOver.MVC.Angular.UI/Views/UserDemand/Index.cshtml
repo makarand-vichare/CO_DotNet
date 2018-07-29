@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "User Book Demands History";
+}
+
+@section scripts {
+
+}
+<div class="container" ng-app="UserDemandModule">
+ 
+    @Html.Partial("_TopMenu")
+
+    <div class="row">
+        <div>
+            <div anti-Forgery-Token ng-view>  </div>
+        </div>
+    </div>
+</div>
+
+@Scripts.Render("~/bundles/userdemand-modules")
+
+@Scripts.Render("~/bundles/userdemand-controllers")
+@Scripts.Render("~/bundles/searchbook-modules")
+@Scripts.Render("~/bundles/searchbook-services")
+@Scripts.Render("~/bundles/searchbook-viewmodels")
+@Scripts.Render("~/bundles/searchbook-controllers")

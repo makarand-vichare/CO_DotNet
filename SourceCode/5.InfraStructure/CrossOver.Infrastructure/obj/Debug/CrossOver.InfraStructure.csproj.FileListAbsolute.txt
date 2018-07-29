@@ -1,0 +1,6 @@
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\NLog.config
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CrossOver.InfraStructure.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CrossOver.InfraStructure.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\CrossOver.Infrastructure\obj\Debug\CrossOver.InfraStructure.csprojResolveAssemblyReference.cache
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\CrossOver.Infrastructure\obj\Debug\CrossOver.InfraStructure.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\5.InfraStructure\CrossOver.Infrastructure\obj\Debug\CrossOver.InfraStructure.pdb

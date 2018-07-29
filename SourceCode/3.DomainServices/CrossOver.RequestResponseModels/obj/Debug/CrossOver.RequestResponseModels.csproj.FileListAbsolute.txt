@@ -1,0 +1,11 @@
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\CrossOver.RequestResponseModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\CrossOver.RequestResponseModels.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\CrossOver.ViewModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\MongoDB.Bson.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\CrossOver.ViewModels.pdb
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\MongoDB.Bson.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\obj\Debug\CrossOver.RequestResponseModels.csprojResolveAssemblyReference.cache
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\obj\Debug\CrossOver.RequestResponseModels.dll
+D:\MakrandVichare_SoftwareEngineer_DotNet\SourceCode\3.DomainServices\CrossOver.RequestResponseModels\obj\Debug\CrossOver.RequestResponseModels.pdb
